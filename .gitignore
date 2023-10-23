@@ -1,0 +1,13 @@
+# Ignora archivos del sistema Mac 
+.jpg
+.JPG
+.png
+.PNG
+.SVG
+.svg
+.JPEG
+.jpeg
+
+
+# Ignora la carpeta node_modules
+node_modules
