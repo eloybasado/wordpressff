@@ -9,3 +9,11 @@ License:     GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: jadro-child
 */
+
+#block-d8d97e2c-8a5c-4808-9ed0-3fe6589b775e{
+    background-image: url('http://localhost/fitnessforce/wp-content/uploads/fondobanner.jpg') !important;
+    background-repeat: no-repeat !important;                   /* Evitar la repetición de la imagen */
+    background-position: center center !important;             /* Posición en el centro del elemento */
+    background-size: cover !important;                         /* Escalar la imagen para cubrir todo el elemento */
+    background-color: #f0f0f0 !important;                  /* Color de fondo si la imagen no se carga o no cubre completamente */
+} 
