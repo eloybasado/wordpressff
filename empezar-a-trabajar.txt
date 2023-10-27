@@ -1,0 +1,9 @@
+Pull de la rama develop.
+En la carpeta bd hay un archivo que es la bd actualizada.
+Sacar o mezclar en rama propia develop.
+Borrar tu bd en phpmyadmin. La creas con el mismo nombre e importas el archivo que hay en bd.
+Realizamos todo el trabajo. 
+Al finalizar antes de hacer push exportamos bd con cambios.
+Pusheamos nuestra rama.
+Comprobamos que todo está bien.
+Mezclamos con develop y pusheamos develop para que el siguiente que trabaje lo haga con la nueva BD.
