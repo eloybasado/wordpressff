@@ -1,4 +1,4 @@
-# Ignora archivo IMPORTANTE me llamo ivan
+# Ignora archivo IMPORTANTE
 .jpg
 .JPG
 .png
@@ -13,3 +13,5 @@
 node_modules
 backups-dup-lite
 wp-content/backups-dup-lite
+/backups-dup-lite/*.daf
+
