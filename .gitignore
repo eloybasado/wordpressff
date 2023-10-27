@@ -11,3 +11,5 @@
 
 # Ignora la carpeta node_modules
 node_modules
+backups-dup-lite
+wp-content/backups-dup-lite
