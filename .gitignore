@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Ignora archivo IMPORTANTE me llamo ivan
+=======
+# Ignora archivo IMPORTANTE
+>>>>>>> develop
 .jpg
 .JPG
 .png
@@ -12,4 +16,10 @@
 # Ignora la carpeta node_modules
 node_modules
 backups-dup-lite
+<<<<<<< HEAD
 wp-content/backups-dup-lite
+=======
+wp-content/backups-dup-lite
+/backups-dup-lite/*.daf
+
+>>>>>>> develop
