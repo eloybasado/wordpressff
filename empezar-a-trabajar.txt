@@ -7,3 +7,17 @@ Al finalizar antes de hacer push exportamos bd con cambios.
 Pusheamos nuestra rama.
 Comprobamos que todo está bien.
 Mezclamos con develop y pusheamos develop para que el siguiente que trabaje lo haga con la nueva BD.
+
+IMPORTANTE
+
+EN LA CARPETA WP-CONTENT/BACKUPS-DUP-LITE SOLO DEBEN HABER 3 ARCHIVOS
+
+.htaccess
+index.php
+robots.txt
+
+IMPORTANTE NO HACER MERGES A PRODUCTION
+
+MOTIVO: NO TIENEN UN COMMIT COMUN, ENTONCES SE DEBE HACER CON UNA ORDEN ESPECIAL
+
+SI QUIERES HACER UN COMMIT A PRODUCTION CONSULTAR CON ELOY
